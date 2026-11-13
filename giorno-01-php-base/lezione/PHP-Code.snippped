@@ -1,0 +1,12 @@
+{
+"PHP tag apertura": {
+  "prefix": "phpopen",
+  "body": ["<?php $0"],
+  "description": "Tag di apertura PHP con il cursore subito dopo"
+},
+"PHP tag chiuso": {
+  "prefix": "phpclosed",
+  "body": ["<?php $0 ?>"],
+  "description": "Apre e chiude il tag PHP con il cursore in mezzo"
+}
+}
